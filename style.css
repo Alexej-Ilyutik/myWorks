@@ -55,7 +55,7 @@ body {
 .main-cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 65px 50px;
+  grid-gap: 50px 60px;
   margin: 0 auto;
 }
 
